@@ -1,0 +1,76 @@
+# Compiled python modules.
+*.pyc
+
+# Setuptools distribution folder.
+/dist/
+
+aspace_tools/scripts/
+
+aspace_tools/scripts/sql
+
+docs/autoapitemplates
+
+docs/autoapi
+
+docs/_build
+
+#pycache folder
+/__pycache__/
+
+# Python egg metadata, regenerated from source files by setuptools.
+/*.egg-info
+/*.egg
+
+# Eclipse project files
+*.project
+*.pydevproject
+
+# My password file
+
+# System files
+*.DS_Store
+
+#other
+*.README.md.html
+
+*.todo.MD
+
+src/aspace_tools/as_tools_config_testing.yml
+
+aspace_tools/app.py
+
+aspace_tools/app_layouts.py
+
+aspace_tools/app_renderers.py
+
+aspace_tools/app_dropdown_values.py
+
+aspace_tools/data/
+
+aspace_tools/logs
+
+aspace_tools/tests
+
+aspace_tools/fixtures
+
+aspace_tools/fixtures/
+
+aspace_tools/.DS_Store
+
+aspace_tools/__pycache__
+
+aspace_tools/implementations/
+
+aspace_tools/as_tools_config.yml
+
+/interfaces/
+
+/data/
+
+/fixtures/
+
+/logs/
+
+/scripts/
+
+/tests/
